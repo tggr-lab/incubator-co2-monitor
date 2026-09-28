@@ -2,7 +2,10 @@
 
 We built our own CO₂ monitor for our cell culture incubator. It was fun, and you can try too.
 
-![The monitor beside an incubator](docs/photos/installed.jpg)
+![The monitor reading 4.95 % CO₂, status NORMAL](docs/photos/reading.jpg)
+
+**[Read the build guide](docs/BUILD_GUIDE.md)** for the parts list, wiring map, build steps, calibration and ten days of real data.
+The same guide is an [interactive page](https://tggr-lab.github.io/incubator-co2-monitor/) with animated diagrams and hover charts.
 
 It measures CO₂ from 0 to 10 % and temperature, shows both on a small touch
 screen, keeps a history, logs to an SD card, and serves a web page over Wi-Fi.
@@ -23,8 +26,9 @@ time to time. Do not use it as the only safeguard for anything that matters.
 
 ## Build it
 
-The [build guide](docs/BUILD_GUIDE.md) has the parts list, the wiring map, the
-build steps with photos, and the calibration procedure.
+Three parts and six wires. The [build guide](docs/BUILD_GUIDE.md) covers each step with photos.
+
+![Wiring map](docs/wiring-map.svg)
 
 | Part | Role |
 |---|---|
@@ -79,6 +83,19 @@ The CO₂ reader is in `Co2Pwm.h` and `Co2Pwm.cpp` and depends on nothing else i
 the project. Give it any input pin. The display code is specific to the
 ESP32-2432S028R and can be left out.
 
+## Licence
+
+Everything here is open source.
+
+| What | Licence |
+|---|---|
+| Firmware and tools | [MIT](LICENSE) |
+| Guide, photos, diagrams, charts and data | [CC BY 4.0](docs/LICENSE) |
+
+Use it, change it, share it. Credit the TGGR Lab when you reuse the guide or photos.
+The firmware shows our lab name and logo. Please swap in your own for your build.
+
 ## Credits
 
 Built at the TGGR Lab, the Translational Genetics and Genomics Research Laboratory.
+Firmware and guide by YAMIR.
