@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 620" role="img" font-family="IBM Plex Sans, system-ui, sans-serif" font-size="12" aria-label="Wiring map: the MH-Z16 and the DS18B20 probe in the sensor head connect through a junction box to connectors P1, P3 and CN1 on the ESP32-2432S028R board">
+<rect x="0" y="0" width="980" height="620" style="fill:#0A1112"/>
+<rect x="20" y="50" width="230" height="520" rx="6" style="fill:#101A1B;stroke:#2A3D3F;stroke-width:1.5" stroke-dasharray="5 4"/>
+<text x="35" y="78" font-weight="600" letter-spacing="1.5" style="fill:#2BB5BC">SENSOR HEAD</text>
+<text x="35" y="95" style="fill:#A9B8B9">sits inside the incubator</text>
+<rect x="330" y="50" width="270" height="520" rx="6" style="fill:#101A1B;stroke:#2A3D3F;stroke-width:1.5" stroke-dasharray="5 4"/>
+<text x="345" y="78" font-weight="600" letter-spacing="1.5" style="fill:#2BB5BC">JUNCTION BOX</text>
+<text x="345" y="95" style="fill:#A9B8B9">on the bench, outside</text>
+<rect x="700" y="50" width="260" height="520" rx="6" style="fill:#101A1B;stroke:#2A3D3F;stroke-width:1.5"/>
+<text x="716" y="78" font-weight="600" letter-spacing="1.5" style="fill:#2BB5BC">ESP32-2432S028R</text>
+<rect x="45" y="120" width="180" height="150" rx="6" style="fill:#18282A;stroke:#2A3D3F;stroke-width:1.5"/>
+<text x="57" y="142" font-weight="600" font-size="14" style="fill:#E6EEEE">MH-Z16</text>
+<text x="57" y="258" style="fill:#A9B8B9">CO₂, 0–10 % vol</text>
+<rect x="45" y="340" width="180" height="150" rx="6" style="fill:#18282A;stroke:#2A3D3F;stroke-width:1.5"/>
+<text x="57" y="362" font-weight="600" font-size="14" style="fill:#E6EEEE">DS18B20</text>
+<text x="57" y="478" style="fill:#A9B8B9">waterproof probe</text>
+<text x="213" y="164" text-anchor="end" style="fill:#E6EEEE">+5 V</text>
+<text x="213" y="199" text-anchor="end" style="fill:#E6EEEE">GND</text>
+<text x="213" y="234" text-anchor="end" style="fill:#E6EEEE">PWM</text>
+<text x="213" y="384" text-anchor="end" style="fill:#E6EEEE">GND</text>
+<text x="213" y="419" text-anchor="end" style="fill:#E6EEEE">DATA</text>
+<text x="213" y="454" text-anchor="end" style="fill:#E6EEEE">VCC</text>
+<text x="380" y="138" style="fill:#A9B8B9">lever connectors × 3</text>
+<text x="380" y="338" style="fill:#A9B8B9">DS18B20 adapter</text>
+<text x="380" y="500" style="fill:#A9B8B9">pull-up resistor on the adapter</text>
+<rect x="380" y="350" width="140" height="130" rx="6" style="fill:#18282A;stroke:#2A3D3F;stroke-width:1.5"/>
+<polyline points="225,160 380,160" style="fill:none;stroke:#F0625A;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="450,160 600,160" style="fill:none;stroke:#F0625A;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="225,195 380,195" style="fill:none;stroke:#93A3A5;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="450,195 600,195" style="fill:none;stroke:#93A3A5;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="225,230 380,230" style="fill:none;stroke:#2BB5BC;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="450,230 600,230" style="fill:none;stroke:#2BB5BC;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="225,380 380,380" style="fill:none;stroke:#93A3A5;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="520,380 600,380" style="fill:none;stroke:#93A3A5;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="225,415 380,415" style="fill:none;stroke:#E3C341;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="520,415 600,415" style="fill:none;stroke:#E3C341;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="225,450 380,450" style="fill:none;stroke:#F09A2E;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="520,450 600,450" style="fill:none;stroke:#F09A2E;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<rect x="380" y="148" width="70" height="24" rx="3" style="fill:#18282A;stroke:#F0625A;stroke-width:1.5"/>
+<rect x="380" y="183" width="70" height="24" rx="3" style="fill:#18282A;stroke:#93A3A5;stroke-width:1.5"/>
+<rect x="380" y="218" width="70" height="24" rx="3" style="fill:#18282A;stroke:#2BB5BC;stroke-width:1.5"/>
+<text x="392" y="384" style="fill:#E6EEEE">GND</text>
+<rect x="376" y="376" width="8" height="8" style="fill:#93A3A5"/>
+<rect x="516" y="376" width="8" height="8" style="fill:#93A3A5"/>
+<text x="392" y="419" style="fill:#E6EEEE">DAT</text>
+<rect x="376" y="411" width="8" height="8" style="fill:#E3C341"/>
+<rect x="516" y="411" width="8" height="8" style="fill:#E3C341"/>
+<text x="392" y="454" style="fill:#E6EEEE">VCC</text>
+<rect x="376" y="446" width="8" height="8" style="fill:#F09A2E"/>
+<rect x="516" y="446" width="8" height="8" style="fill:#F09A2E"/>
+<rect x="221" y="156" width="8" height="8" style="fill:#F0625A"/>
+<rect x="221" y="191" width="8" height="8" style="fill:#93A3A5"/>
+<rect x="221" y="226" width="8" height="8" style="fill:#2BB5BC"/>
+<rect x="221" y="376" width="8" height="8" style="fill:#93A3A5"/>
+<rect x="221" y="411" width="8" height="8" style="fill:#E3C341"/>
+<rect x="221" y="446" width="8" height="8" style="fill:#F09A2E"/>
+<text x="290" y="252" text-anchor="middle" style="fill:#6F8183">sensor lead</text>
+<text x="290" y="472" text-anchor="middle" style="fill:#6F8183">probe lead</text>
+<text x="525" y="153" text-anchor="middle" style="fill:#A9B8B9">+5 V</text>
+<text x="525" y="188" text-anchor="middle" style="fill:#A9B8B9">GND</text>
+<text x="525" y="223" text-anchor="middle" style="fill:#A9B8B9">PWM, 1 cycle/s</text>
+<text x="560" y="373" text-anchor="middle" style="fill:#A9B8B9">GND</text>
+<text x="560" y="408" text-anchor="middle" style="fill:#A9B8B9">data</text>
+<text x="560" y="443" text-anchor="middle" style="fill:#A9B8B9">3V3</text>
+<polyline points="600,160 620,160 620,150 700,150" style="fill:none;stroke:#F0625A;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="600,195 660,195 660,240 700,240" style="fill:none;stroke:#93A3A5;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="600,230 640,230 640,330 700,330" style="fill:none;stroke:#2BB5BC;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="600,380 660,380 660,450 700,450" style="fill:none;stroke:#93A3A5;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="600,415 640,415 640,510 700,510" style="fill:none;stroke:#E3C341;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<polyline points="600,450 620,450 620,540 700,540" style="fill:none;stroke:#F09A2E;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<rect x="700" y="130" width="90" height="130" rx="6" style="fill:#18282A;stroke:#2A3D3F;stroke-width:1.5"/>
+<text x="802" y="154" font-weight="600" font-size="13" style="fill:#E6EEEE">P1</text>
+<text x="714" y="154" font-weight="600" style="fill:#E6EEEE">VIN</text>
+<text x="846" y="154" style="fill:#A9B8B9">5 V from USB</text>
+<rect x="696" y="146" width="8" height="8" style="fill:#F0625A"/>
+<text x="714" y="184" style="fill:#6F8183">TX</text>
+<text x="846" y="184" style="fill:#6F8183">serial console</text>
+<rect x="696" y="176" width="8" height="8" style="fill:#2A3D3F"/>
+<text x="714" y="214" style="fill:#6F8183">RX</text>
+<text x="846" y="214" style="fill:#6F8183">serial console</text>
+<rect x="696" y="206" width="8" height="8" style="fill:#2A3D3F"/>
+<text x="714" y="244" font-weight="600" style="fill:#E6EEEE">GND</text>
+<text x="846" y="244" style="fill:#A9B8B9">ground</text>
+<rect x="696" y="236" width="8" height="8" style="fill:#93A3A5"/>
+<rect x="700" y="280" width="90" height="130" rx="6" style="fill:#18282A;stroke:#2A3D3F;stroke-width:1.5"/>
+<text x="802" y="304" font-weight="600" font-size="13" style="fill:#E6EEEE">P3</text>
+<text x="714" y="304" style="fill:#6F8183">GND</text>
+<text x="846" y="304" style="fill:#6F8183">ground</text>
+<rect x="696" y="296" width="8" height="8" style="fill:#2A3D3F"/>
+<text x="714" y="334" font-weight="600" style="fill:#E6EEEE">IO35</text>
+<text x="846" y="334" style="fill:#A9B8B9">CO₂ PWM in</text>
+<rect x="696" y="326" width="8" height="8" style="fill:#2BB5BC"/>
+<text x="714" y="364" style="fill:#6F8183">IO22</text>
+<text x="846" y="364" style="fill:#6F8183">not used</text>
+<rect x="696" y="356" width="8" height="8" style="fill:#2A3D3F"/>
+<text x="714" y="394" style="fill:#6F8183">IO21</text>
+<text x="846" y="394" style="fill:#6F8183">backlight, leave</text>
+<rect x="696" y="386" width="8" height="8" style="fill:#2A3D3F"/>
+<rect x="700" y="430" width="90" height="130" rx="6" style="fill:#18282A;stroke:#2A3D3F;stroke-width:1.5"/>
+<text x="802" y="454" font-weight="600" font-size="13" style="fill:#E6EEEE">CN1</text>
+<text x="714" y="454" font-weight="600" style="fill:#E6EEEE">GND</text>
+<text x="846" y="454" style="fill:#A9B8B9">ground</text>
+<rect x="696" y="446" width="8" height="8" style="fill:#93A3A5"/>
+<text x="714" y="484" style="fill:#6F8183">IO22</text>
+<text x="846" y="484" style="fill:#6F8183">not used</text>
+<rect x="696" y="476" width="8" height="8" style="fill:#2A3D3F"/>
+<text x="714" y="514" font-weight="600" style="fill:#E6EEEE">IO27</text>
+<text x="846" y="514" style="fill:#A9B8B9">1-Wire data</text>
+<rect x="696" y="506" width="8" height="8" style="fill:#E3C341"/>
+<text x="714" y="544" font-weight="600" style="fill:#E6EEEE">3V3</text>
+<text x="846" y="544" style="fill:#A9B8B9">probe supply</text>
+<rect x="696" y="536" width="8" height="8" style="fill:#F09A2E"/>
+<text x="716" y="96" style="fill:#A9B8B9">USB-C: power and programming</text>
+<polyline points="20,598 46,598" style="fill:none;stroke:#F0625A;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<text x="54" y="602" style="fill:#A9B8B9">+5 V</text>
+<polyline points="170,598 196,598" style="fill:none;stroke:#F09A2E;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<text x="204" y="602" style="fill:#A9B8B9">3V3</text>
+<polyline points="320,598 346,598" style="fill:none;stroke:#93A3A5;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<text x="354" y="602" style="fill:#A9B8B9">GND</text>
+<polyline points="470,598 496,598" style="fill:none;stroke:#2BB5BC;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<text x="504" y="602" style="fill:#A9B8B9">CO₂ PWM</text>
+<polyline points="620,598 646,598" style="fill:none;stroke:#E3C341;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round"/>
+<text x="654" y="602" style="fill:#A9B8B9">1-Wire data</text>
+</svg>

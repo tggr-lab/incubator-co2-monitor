@@ -1,0 +1,13 @@
+{
+ "days": 10.618310185185186,
+ "samples": 91739,
+ "restarts": 0,
+ "in_band_pct": 97.2421761737102,
+ "above_band_pct": 0.0,
+ "excursions": 50,
+ "lowest_pct": 0.4366,
+ "median_depth_pct": 2.1096500000000002,
+ "utc_offset": 3.0,
+ "start_local": "2026-09-17 18:12",
+ "end_local": "2026-09-28 09:02"
+}

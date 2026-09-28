@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" role="img" font-family="IBM Plex Sans, system-ui, sans-serif" font-size="12" aria-label="Two recoveries after the door closed, both reaching the target band within five minutes">
+<rect width="960" height="330" style="fill:#0A1112"/>
+<line x1="56" y1="280.0" x2="820" y2="280.0" style="stroke:#2A3D3F;stroke-width:1"/>
+<text x="48.0" y="284.0" text-anchor="end" style="fill:#6F8183">0</text>
+<line x1="56" y1="238.3" x2="820" y2="238.3" style="stroke:#2A3D3F;stroke-width:1"/>
+<text x="48.0" y="242.3" text-anchor="end" style="fill:#6F8183">1</text>
+<line x1="56" y1="196.7" x2="820" y2="196.7" style="stroke:#2A3D3F;stroke-width:1"/>
+<text x="48.0" y="200.7" text-anchor="end" style="fill:#6F8183">2</text>
+<line x1="56" y1="155.0" x2="820" y2="155.0" style="stroke:#2A3D3F;stroke-width:1"/>
+<text x="48.0" y="159.0" text-anchor="end" style="fill:#6F8183">3</text>
+<line x1="56" y1="113.3" x2="820" y2="113.3" style="stroke:#2A3D3F;stroke-width:1"/>
+<text x="48.0" y="117.3" text-anchor="end" style="fill:#6F8183">4</text>
+<line x1="56" y1="71.7" x2="820" y2="71.7" style="stroke:#2A3D3F;stroke-width:1"/>
+<text x="48.0" y="75.7" text-anchor="end" style="fill:#6F8183">5</text>
+<line x1="56" y1="30.0" x2="820" y2="30.0" style="stroke:#2A3D3F;stroke-width:1"/>
+<text x="48.0" y="34.0" text-anchor="end" style="fill:#6F8183">6</text>
+<text x="56.0" y="18.0" font-weight="600" style="fill:#E6EEEE">CO₂, %</text>
+<rect x="56.0" y="50.8" width="764.0" height="41.7" style="fill:#1FA3AA;opacity:0.1"/>
+<text x="820.0" y="44.8" text-anchor="end" style="fill:#A9B8B9">target band</text>
+<polyline points="56.0,141.5 68.7,141.4 81.5,141.3 94.2,138.8 106.9,136.0 119.7,134.1 132.4,131.9 145.1,129.1 157.9,125.1 170.6,121.9 183.3,119.2 196.1,115.5 208.8,111.9 221.5,109.0 234.3,106.0 247.0,103.3 259.7,100.7 272.5,98.1 285.2,95.8 297.9,93.5 310.7,91.5 323.4,89.6 336.1,87.9 348.9,86.4 361.6,85.0 374.3,83.9 387.1,82.7 399.8,81.6 412.5,80.3 425.3,79.1 438.0,78.2 450.7,77.1 463.5,76.0 476.2,74.9 488.9,74.2 501.7,73.8 514.4,73.3 527.1,72.9 539.9,72.5 552.6,72.1 565.3,71.8 578.1,71.5 590.8,71.3 603.5,71.1 616.3,70.9 629.0,70.7 641.7,70.6 654.5,70.4 667.2,70.4 679.9,70.2 692.7,70.2 705.4,70.1 718.1,70.0 730.9,70.0 743.6,69.9 756.3,69.9 769.1,69.9 781.8,69.7 794.5,69.7 807.3,69.7 820.0,69.6" style="fill:none;stroke:#D47A18;stroke-width:2;stroke-linejoin:round;stroke-linecap:round"/>
+<circle cx="56.0" cy="141.5" r="4" style="fill:#D47A18;stroke:#0A1112;stroke-width:2"/>
+<text x="68.0" y="157.5" style="fill:#E6EEEE">from 3.33 %</text>
+<polyline points="56.0,202.4 68.7,202.4 81.5,200.1 94.2,196.4 106.9,191.9 119.7,187.1 132.4,180.9 145.1,174.3 157.9,167.7 170.6,162.1 183.3,156.5 196.1,151.3 208.8,146.4 221.5,142.3 234.3,138.0 247.0,134.1 259.7,130.7 272.5,125.8 285.2,121.6 297.9,117.6 310.7,113.0 323.4,108.9 336.1,105.5 348.9,103.0 361.6,100.5 374.3,97.5 387.1,95.1 399.8,93.8 412.5,92.0 425.3,90.2 438.0,88.7 450.7,87.4 463.5,85.9 476.2,84.3 488.9,82.7 501.7,81.5 514.4,80.6 527.1,79.6 539.9,78.5 552.6,77.6 565.3,76.8 578.1,76.0 590.8,75.4 603.5,74.9 616.3,74.4 629.0,74.0 641.7,73.6 654.5,73.2 667.2,72.9 679.9,72.6 692.7,72.4 705.4,72.1 718.1,71.9 730.9,71.7 743.6,71.5 756.3,71.3 769.1,71.2 781.8,71.1 794.5,71.0 807.3,71.0 820.0,71.0" style="fill:none;stroke:#1FA3AA;stroke-width:2;stroke-linejoin:round;stroke-linecap:round"/>
+<circle cx="56.0" cy="202.4" r="4" style="fill:#1FA3AA;stroke:#0A1112;stroke-width:2"/>
+<text x="68.0" y="218.4" style="fill:#E6EEEE">from 1.86 %</text>
+<text x="56.0" y="298.0" text-anchor="middle" style="fill:#6F8183">0</text>
+<text x="208.8" y="298.0" text-anchor="middle" style="fill:#6F8183">2</text>
+<text x="361.6" y="298.0" text-anchor="middle" style="fill:#6F8183">4</text>
+<text x="514.4" y="298.0" text-anchor="middle" style="fill:#6F8183">6</text>
+<text x="667.2" y="298.0" text-anchor="middle" style="fill:#6F8183">8</text>
+<text x="820.0" y="298.0" text-anchor="middle" style="fill:#6F8183">10</text>
+<text x="820.0" y="316.0" text-anchor="end" style="fill:#6F8183">minutes after the lowest point</text>
+</svg>
